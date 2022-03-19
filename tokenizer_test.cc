@@ -6,7 +6,6 @@
 // Date: 2022.03.15
 
 #include "tokenizer.h"
-//#include "mm3rd/gtest-1.8.1/include/gtest/gtest.h"
 #include <gtest/gtest.h>
 
 using namespace fq;
